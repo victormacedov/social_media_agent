@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+youtube-transcript-api
+yt-dlp
+requests
+faster-whisper
+torch
+python-dotenv

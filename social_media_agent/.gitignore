@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+*.egg
+*.log
+*.sqlite3
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Downloads / temporários
+downloads/
+*.mp3
+*.m4a
+*.wav
+
+# Whisper / Faster-Whisper cache
+faster_whisper_cache/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Docker
+*.dockerfile
+*.tar
+docker-compose.override.yml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node modules (caso tenha frontend)
+node_modules/
